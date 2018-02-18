@@ -1,0 +1,11 @@
+0,25    H
+0,20    B
+6       nH
+5       nB
+25      t
+0,4     k
+40      alfa
+60      dt
+2510    cieplo_wlasciwe
+800     gestosc
+-10     tempOtoczenia
